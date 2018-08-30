@@ -11,7 +11,7 @@ TSP – Travelling Salesman Problem, polegający na znalenieniu cyklu w grafie o
 
 Stosując tę zasadę liczymy na to, iż wykonując najlepsze wybory na poziomie lokalnym, otrzymane rozwiązanie będzie dobrej jakości. Takie podejście często daje wyniki dalekie od optymalnego, jednak ze względu na swoją szybkość może służyć jako pierwszy krok przed wykorzystaniem bardziej zaawansowanych heurystyk. Metoda jest procedurą deterministyczną, tzn. za każdym razem da ten sam wynik.
 
-> komiwojazer_najblizszy_sasiad.m
+> [komiwojazer_najblizszy_sasiad.m](komiwojazer_najblizszy_sasiad.m)
 
 <img src="doc/01.png" />
 
@@ -27,7 +27,7 @@ Jest to metoda heurystyczna. Obserwacja: krzyżujące się połączenia między 
 - Po takim losowym zaburzeniu następuje ponowna próba usunięcia krzyżujących się krawędzi
 - Cała procedura jest powtarzana przez zadaną liczbę iteracji bądź też dopóki prowadzi do poprawy rozwiązania
 
-> komiwojazer_tsp.m
+> [komiwojazer_2_optymalny.m](komiwojazer_2_optymalny.m)
 
 W programie istnieje możliwość ustawienia liczby losowych zaburzeń jak również liczby powtórzeń całej procedury. 
 
