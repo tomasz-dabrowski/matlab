@@ -1,6 +1,6 @@
 # Problem komiwojażera
 
-TSP – Travelling Salesman Problem, polegający na znalenieniu cyklu w grafie o najmniejszej sumie wag krawędzi (odległości między punktami). Tak sformułowane zadanie stanowi „Problem NP-zupełny”, ale istnieją algorytmy optymalizacyjne, które potrafią podać poprawne (bądź zbliżone do poprawnego) rozwiązanie w czasie wielomianowym.
+TSP – Travelling Salesman Problem, polegający na znalenieniu cyklu w grafie o najmniejszej sumie wag krawędzi (odległości między punktami). Tak sformułowane zadanie stanowi "Problem NP-zupełny", ale istnieją algorytmy optymalizacyjne, które potrafią podać poprawne (bądź zbliżone do poprawnego) rozwiązanie w czasie wielomianowym.
 
 ## Metoda najbliższego sąsiada – nearest neighbor
 
